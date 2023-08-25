@@ -1,0 +1,21 @@
+{
+  "name": "metstamasque",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "truffle-contract": "^4.0.31",
+    "web3": "^1.10.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
